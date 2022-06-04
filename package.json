@@ -1,0 +1,30 @@
+{
+  "name": "gift-giver-lab",
+  "version": "1.0.0",
+  "description": "A Node/Express test-driven lab centered around building a gift-giver API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "PORT=3001 nodemon server.js --port 3001",
+    "test": "jest -i --verbose tests",
+    "test:watch": "npm run test -- --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.0.0-beta.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "jest": "^28.0.3",
+    "supertest": "^6.2.3",
+    "nodemon": "^2.0.16"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": [
+      "**/*.test.js"
+    ]
+  }
+}
