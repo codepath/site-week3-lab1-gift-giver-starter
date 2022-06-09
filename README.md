@@ -4,10 +4,6 @@ A client has asked you to create an app that operates as a competitor to https:/
 
 Your client thinks they have a few killer features that could improve on elfster's design and allow them to compete in the market. But first, they need a backend product to work with. They'd like you to build the prototype using Node and Express.
 
-<iframe width='640' height='400' class="embeddedObject shadow resizable" name="embedded_content" scrolling="no" frameborder="0" type="text/html" 
-        style="overflow:hidden;" src="https://www.screencast.com/users/SamanthaHe/folders/Capture/media/f67b9a16-e915-4dc1-806a-a95393b91563/embed" height="1080" width="1920" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
 ## Project Details
 
 ### Goals
