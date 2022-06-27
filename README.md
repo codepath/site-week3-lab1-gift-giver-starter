@@ -114,7 +114,7 @@ In the `app.js` file:
 ### Step 3: The `GiftExchange` model (20-25 mins)
 
   - [ ] Setup files and folders
-    - [ ] Create a new directory in the root of the project called `routes`
+    - [ ] Create a new directory in the root of the project called `models`
     - [ ] Inside that directory, create a new file called `gift-exchange.js`
   - [ ] In the `models/gift-exchange.js` file:
     - [ ] Create a `GiftExchange` class
