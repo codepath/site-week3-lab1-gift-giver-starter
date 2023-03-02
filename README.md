@@ -35,27 +35,9 @@ By the end of this lab you will be able to...
 
 ### Step 0: Set up your project (5 mins)
 
-#### TDD Lab
+#### Lab
 
 - [ ] Start by installing the core dependencies for this project with `npm install`.
-- [ ] Try running the tests in the terminal. They should all be failing, but that's ok. We'll use them to guide our development during this lab.
-
-```bash
-npm run test
-```
-
-- [ ] To start the server in development mode run:
-
-```bash
-npm run dev
-```
-
-Running the tests along with the server requires having two terminal windows open:
-
-  - [ ] In one run the `npm run dev`
-  - [ ] In the other, run `npm run test:watch`
-
-Then, every time a file is updated, the tests will be re-run. At the beginning, the `npm run dev` command will fail since we don't have a valid Express application to run. Let's fix that in the following steps!
 
 :::info
 💡 **Tip:** Feel free to use an HTTP client like `insomnia` or `postman` to manually test the application endpoints.
